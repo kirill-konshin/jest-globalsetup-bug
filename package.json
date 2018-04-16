@@ -1,0 +1,14 @@
+{
+  "name": "jest-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "22.4.3"
+  }
+}
